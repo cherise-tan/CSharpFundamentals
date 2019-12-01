@@ -1,0 +1,11 @@
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\bin\Debug\netcoreapp3.0\ArraysLists.exe
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\bin\Debug\netcoreapp3.0\ArraysLists.deps.json
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\bin\Debug\netcoreapp3.0\ArraysLists.runtimeconfig.json
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\bin\Debug\netcoreapp3.0\ArraysLists.runtimeconfig.dev.json
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\bin\Debug\netcoreapp3.0\ArraysLists.dll
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\bin\Debug\netcoreapp3.0\ArraysLists.pdb
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\obj\Debug\netcoreapp3.0\ArraysLists.AssemblyInfoInputs.cache
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\obj\Debug\netcoreapp3.0\ArraysLists.AssemblyInfo.cs
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\obj\Debug\netcoreapp3.0\ArraysLists.dll
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\obj\Debug\netcoreapp3.0\ArraysLists.pdb
+C:\Users\cheri\Desktop\C#\ArraysLists\ArraysLists\obj\Debug\netcoreapp3.0\ArraysLists.csprojAssemblyReference.cache
